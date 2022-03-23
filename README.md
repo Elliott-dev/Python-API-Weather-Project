@@ -68,7 +68,8 @@ Then I decided to work with weather data to plan future vacations. Used jupyter-
 
 * Plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  https://github.com/Elliott-dev/Python-API-Weather-Project/blob/main/Ideal_Vacation.png
+
+![image](https://user-images.githubusercontent.com/94668201/159743097-53d2a9be-cc82-4c1f-b1bd-177a7d900e74.png)
 
 As final considerations:
 
